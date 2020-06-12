@@ -1,0 +1,5 @@
+build/
+gradle/wrapper/gradle-wrapper.jar
+src/main/resources/application-local.yml
+.idea/
+.gradle/
